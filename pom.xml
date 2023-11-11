@@ -33,14 +33,6 @@
             <url>https://maven.pkg.github.com/nithyasree73/java-maven-app</url>
         </repository>
     </distributionManagement>
-    <servers>
-        <server>
-            <id>github</id>
-            <username>nithyasree73</username>
-            <password>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</password>
-        </server>
-    </servers>
-
-
+    
 </project>
 

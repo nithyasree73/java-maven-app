@@ -41,5 +41,12 @@
             </plugin>
         </plugins>
     </build>
+    <distributionManagement>
+       <repository>
+          <id>nithyasree73</id>
+          <url>https://github.com/nithyasree73/java-maven-app.git</url>
+       </repository>
+    </distributionManagement>
+
 </project>
 
